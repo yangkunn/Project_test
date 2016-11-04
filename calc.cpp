@@ -7,7 +7,7 @@ int mul(int a, int b);
 
 int main()
 {
-	cout << "Init" << endl;
+	cout << "Start" << endl;
 
 	cout << sum(4, 3) << endl;
 	cout << sub(4, 3) << endl;
