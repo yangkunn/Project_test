@@ -7,7 +7,7 @@ int main()
 {
 	cout << "Init" << endl;
 
-	cout << sum(4, 3) << endl;
+	cout << a << " + " << b << " = " << sum(4, 3) << endl;
 
 	return 0;
 }
