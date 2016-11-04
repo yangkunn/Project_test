@@ -13,6 +13,8 @@ int main()
 	cout << sub(4, 3) << endl;
 	cout << mul(4, 3) << endl;
 
+	cout << "End!" << endl;
+
 	return 0;
 }
 
